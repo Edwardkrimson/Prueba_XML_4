@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preguntas>
+    <pregunta id="1">
+        <texto>Esta es la pregunta definitiva</texto>
+        <respuesta>Esta es la respuesta definitiva</respuesta>
+    </pregunta>
+</preguntas>
