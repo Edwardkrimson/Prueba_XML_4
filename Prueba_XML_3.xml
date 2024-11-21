@@ -1,0 +1,12 @@
+<contenido>
+    <textos>
+        <texto id="pregunta1">¿Cuál es la capital de Colombia?</texto>
+        <texto id="pregunta2">Ubica Medellín en el mapa.</texto>
+        <texto id="retroCorrecta">¡Correcto! Bien hecho.</texto>
+        <texto id="retroIncorrecta">Lo siento, intenta de nuevo.</texto>
+    </textos>
+    <botones>
+        <boton id="siguiente">Siguiente</boton>
+        <boton id="anterior">Anterior</boton>
+    </botones>
+</contenido>
