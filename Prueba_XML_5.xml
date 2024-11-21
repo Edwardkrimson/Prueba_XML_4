@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preguntas>
+    <pregunta id="1">
+        <texto>¿Qué es HSEQ?</texto>
+        <respuesta>Es una política de ENEL.</respuesta>
+    </pregunta>
+</preguntas>
