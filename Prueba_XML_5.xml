@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <preguntas>
     <pregunta id="1">
-        <texto>La concha Escubi</texto>
-        <respuesta>Mmmmm shaggi qué ricoooo</respuesta>
+        <texto>Esta es una nueva pregunta</texto>
+        <respuesta>Aquí iría una nueva respuesta</respuesta>
     </pregunta>
 </preguntas>
