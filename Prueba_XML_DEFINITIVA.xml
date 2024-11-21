@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <preguntas>
     <pregunta id="1">
-        <texto>Esta es la pregunta definitiva</texto>
-        <respuesta>Esta es la respuesta definitiva</respuesta>
+        <texto>Esta es la pregunta definitiva para comprobar el cambio</texto>
+        <respuesta>Esta es la respuesta definitiva para comprobar el cambio y la longitud capaz del tamaño de la respuesta</respuesta>
     </pregunta>
 </preguntas>
