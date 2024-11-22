@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contenido>
+    <preguntas>
+        <pregunta id="1">
+            <texto>Texto Pregunta Actividad 1</texto>
+            <respuesta>Respuesta 1</respuesta>
+            <respuesta>Respuesta 2</respuesta>
+            <respuesta>Respuesta 3</respuesta>
+            <respuesta>Respuesta 4</respuesta>
+        </pregunta>
+        <pregunta id="2">
+            <texto>Texto Pregunta Actividad 2</texto>
+            <respuesta>Respuesta 1</respuesta>
+            <respuesta>Respuesta 2</respuesta>
+            <respuesta>Respuesta 3</respuesta>
+            <respuesta>Respuesta 4</respuesta>
+        </pregunta>
+        <pregunta id="3">
+            <texto>Texto Pregunta Actividad 3</texto>
+            <respuesta>Respuesta 1</respuesta>
+            <respuesta>Respuesta 2</respuesta>
+            <respuesta>Respuesta 3</respuesta>
+        </pregunta>
+        <!-- Más preguntas hasta la 30 -->
+    </preguntas>
+</contenido>
