@@ -20,6 +20,9 @@
             <respuesta>Respuesta 1</respuesta>
             <respuesta>Respuesta 2</respuesta>
             <respuesta>Respuesta 3</respuesta>
+            <respuesta>Respuesta 4</respuesta>
+            <respuesta>Respuesta 5</respuesta>
+            <respuesta>Respuesta 6</respuesta>
         </pregunta>
         <!-- Más preguntas hasta la 30 -->
     </preguntas>
